@@ -1,33 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@Markvitim
-netology-code
-/
-javaqa-homeworks
-Public
-3
-15294
-Code
-Pull requests
-Actions
-Wiki
-Security
-Insights
-javaqa-homeworks/.gitignore
-@coursar
-coursar fix(.gitignore): target added
-Latest commit 7766259 on 27 Feb 2020
- History
- 1 contributor
-47 lines (41 sloc)  491 Bytes
-
 Thumbs.db*
-.DS_Store*
+.DS_Store
 HELP.md
 .gradle
 build/
@@ -68,20 +40,5 @@ out/
 *.tar.gz
 *.rar
 
-### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+### Node ###
+node_modules/
